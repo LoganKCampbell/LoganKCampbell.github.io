@@ -4,6 +4,7 @@
 # jazznotes.io
 - project: Game
   description: I started work on creating a game however it is not complete due to the software I was using did not have the proper tools needed. I used collisions, loops, conditions, movement, response to inputs, and switching of images due to inputs. I learnt how to make certain sprites and objects respond to keybind inputs. I made sprites change due to keyboard inputs or other things.
+  <img scr=images/Screenshot 2026-05-20 135504.png>
 # Springfield Community Outreach Group
 - project: Springfield Community Outreach Group
   role: Co-Founder & Organizer
