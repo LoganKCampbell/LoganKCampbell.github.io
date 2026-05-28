@@ -8,11 +8,11 @@
 # Springfield Community Outreach Group
 - project: Building a computer
   description: I built a computer from all of the separate parts and made sure that it worked, that I flashed the BIOS, and got proper drivers. I used thermal paste, anti static mats, thumb drives, and various different software. I learnt how to install things on the motherboard. I solved the challenge of having an extra screw, and not being able to find the proper cords, and cable management.
-  url: "images/PC.png"
+  url: "images/PC.jpg"
 - project: Fixing Proxmox server
   description: I helped out my mom with fixing our Proxmox server. I used the internet, CLI, and used troubleshooting to try and solve it. I learnt how Proxmox works and good ways to troubleshoot and search for information. We fixed the server.
-  url: "images/Proxmox.png"
+  url: "images/Proxmox.jpg"
 
 - project: Creating a CAT5a cable
   description: I built a CAT5a ethernet cable from the wire and added the end. We used a cable tester and cable crumper. I learnt that the little cables that need to match up really like to get out of order and it is difficult to get the header thing on. Getting the wires to match up to have proper cable connection.
-  url: "images/Cat5a.png"
+  url: "images/Cat5a.jpg"
