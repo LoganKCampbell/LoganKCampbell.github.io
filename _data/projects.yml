@@ -4,7 +4,7 @@
 # jazznotes.io
 - project: Game
   description: I started work on creating a game however it is not complete due to the software I was using did not have the proper tools needed. I used collisions, loops, conditions, movement, response to inputs, and switching of images due to inputs. I learnt how to make certain sprites and objects respond to keybind inputs. I made sprites change due to keyboard inputs or other things.
-  image: /LoganKCampbell.github.io/images/Game.png
+  image: Game.png
 # Springfield Community Outreach Group
 - project: Building a computer
   description: I built a computer from all of the separate parts and made sure that it worked, that I flashed the BIOS, and got proper drivers. I used thermal paste, anti static mats, thumb drives, and various different software. I learnt how to install things on the motherboard. I solved the challenge of having an extra screw, and not being able to find the proper cords, and cable management.
